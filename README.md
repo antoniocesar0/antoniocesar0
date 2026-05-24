@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Front End<br>🤝 Em busca de uma vaga Júnior<br>🌱 Atualmente estudando HTML, CSS & JavaScript<br>😄 Pronouns: Ele/Dele -->
+🔭 Sou estudante Full-Stack<br>🤝 Em busca de uma vaga Júnior<br>🌱 Atualmente estudando HTML, CSS & JavaScript<br>😄 Pronouns: Ele/Dele -->
 
 
 # 💻 Tech Stack:
